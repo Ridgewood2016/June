@@ -1,4 +1,7 @@
 @ticket2
  Feature: 1
    @ticket
-   Scenario:
+   Scenario: 1
+
+     @ticket
+     Scenario: 2
