@@ -3,3 +3,4 @@
 
     @login
     Scenario: Login "Happy path"
+      Given I navigate
